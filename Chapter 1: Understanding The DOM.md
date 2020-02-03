@@ -100,6 +100,16 @@ The DOM is used all of the time and is what we'll be using throughout this cours
 -   [Section 8.2 Parsing HTML documents](https://www.w3.org/TR/html5/syntax.html#parsing) from the W3C's HTML Documentation
 -   [DOM Specification](https://www.w3.org/standards/techs/dom#w3c_all) on W3C
 -   [HTML Document Object Model mentioned in the ECMAScript Specification](https://www.ecma-international.org/ecma-262/#sec-global-object) - the language specification used by JavaScript
+
+- [HTTP 和 Web 服务器](https://cn.udacity.com/course/http-web-servers--ud303)
+
+
+HTTP 是网络的基本协议。在这门课程中，使用 Python 和命令行探索它的原理。
+
+
+
+- [Shell 讲习班](https://classroom.udacity.com/courses/ud206)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQ1ODczNTddfQ==
+eyJoaXN0b3J5IjpbLTE1NDY1NTc3OTEsLTEzODQ1ODczNTddfQ
+==
 -->
