@@ -32,6 +32,10 @@ Make sure that /usr/local/bin is in your $PATH.
 学习如何使用 Git，这个每名开发者都需要掌握的流行版本控制系统。
 ### [GitHub 协作](https://cn.udacity.com/course/github-collaboration--ud456)
 学习如何与其他开发者一起在 GitHub 上协作。
+
+### [HTML and CSS Syntax](https://cn.udacity.com/course/html-and-css-syntax--ud001)
+
+### [Web 开发者的网络入门](https://cn.udacity.com/course/networking-for-web-developers--ud256)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5MjU2OTY2XX0=
+eyJoaXN0b3J5IjpbMTQxNDQ1Njk0LDc3OTI1Njk2Nl19
 -->
