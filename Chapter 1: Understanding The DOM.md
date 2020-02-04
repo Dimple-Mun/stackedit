@@ -110,6 +110,5 @@ HTTP 是网络的基本协议。在这门课程中，使用 Python 和命令行�
 
 - [Shell 讲习班](https://classroom.udacity.com/courses/ud206)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDY1NTc3OTEsLTEzODQ1ODczNTddfQ
-==
+eyJoaXN0b3J5IjpbLTE1NDY1NTc3OTFdfQ==
 -->
